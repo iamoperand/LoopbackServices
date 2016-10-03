@@ -7,25 +7,12 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Booster &mdash; A free HTML5 Template by FREEHTML5.CO</title>
+	<title>Incord Solutions&mdash; Tag Line</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FREEHTML5.CO" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="author" content="" />
 
-  <!-- 
-	//////////////////////////////////////////////////////
-
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FREEHTML5.CO
-		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
-
-	//////////////////////////////////////////////////////
-	 -->
 
   <!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -72,14 +59,14 @@
 				<div class="navbar-header"> 
 				<!-- Mobile Toggle Menu Button -->
 				<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#fh5co-navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
-				<a class="navbar-brand" href="index.html">Booster</a>
+				<a class="navbar-brand" href="index.html">Incord Solutions</a>
 				</div>
 				<div id="fh5co-navbar" class="navbar-collapse collapse">
 					<ul class="nav navbar-nav navbar-right">
 						<li class="active"><a href="index.html"><span>Home <span class="border"></span></span></a></li>
-						<li><a href="right-sidebar.html"><span>Right Sidebar <span class="border"></span></span></a></li>
-						<li><a href="left-sidebar.html"><span>Left Sidebar <span class="border"></span></span></a></li>
-						<li><a href="elements.html"><span>Elements <span class="border"></span></span></a></li>
+						<li><a href="right-sidebar.html"><span>About Us <span class="border"></span></span></a></li>
+						<li><a href="left-sidebar.html"><span>Services <span class="border"></span></span></a></li>
+						<li><a href="elements.html"><span>Contact Us <span class="border"></span></span></a></li>
 					</ul>
 				</div>
 			</div>
@@ -96,7 +83,7 @@
 		    			<div class="col-md-8 col-md-offset-2">
 			    			<div class="fh5co-owl-text-wrap">
 						    	<div class="fh5co-owl-text text-center to-animate">
-						    		<h1 class="fh5co-lead">Booster Studio</h1>
+						    		<h1 class="fh5co-lead">Incord Solutions</h1>
 									<h2 class="fh5co-sub-lead">Booster is a free responsive HTML5 template using bootstrap released under Creative Commons 3.0. Lovely crafted by <a href="#">FREEHTML5.co</a></h2>
 						    	</div>
 						    </div>
@@ -158,7 +145,7 @@
 			<div class="container">
 				<div class="row text-center">
 					<div class="col-md-8 col-md-offset-2">
-						<h2 class="fh5co-section-lead">Key Features</h2>
+						<h2 class="fh5co-section-lead">Services</h2>
 						<h3 class="fh5co-section-sub-lead">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</h3>
 					</div>
 					<div class="fh5co-spacer fh5co-spacer-md"></div>
@@ -170,7 +157,7 @@
 								<i class="icon-bag"></i>
 							</div>
 							<div class="fh5co-feature-text">
-								<h3>Shopping Bag</h3>
+								<h3>Network Monitoring</h3>
 								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
 								<p><a href="#">Read more</a></p>
 							</div>
