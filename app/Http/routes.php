@@ -11,15 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
-Route::get('/left-sidebar', function () {
-    return view('left-sidebar');
-});
-Route::get('/pricing', function () {
-    return view('pricing');
-});
-Route::get('/tour', function () {
-    return view('tour');
-});
+Route::get('/', 'PagesController@getIndex');
+Route::get('/about', 'PagesController@getAbout');
+Route::get('/services', 'PagesController@getServices');
+Route::get('/contact', 'PagesController@getContact' );

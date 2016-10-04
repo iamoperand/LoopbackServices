@@ -1,14 +1,19 @@
-
 @include('partials._head')
+	
+
 	<body>
-		
-	@include('partials._header')
+	
+@include('partials._header')		
+	
+	
 	<aside class="fh5co-page-heading">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
 					<h1 class="fh5co-page-heading-lead">
-						About Us
+						
+						Services
+
 						<span class="fh5co-border"></span>
 					</h1>
 					
@@ -21,7 +26,7 @@
 		
 		<div class="container">
 			<div class="row">
-				<div class="col-md-8">
+				<div class="col-md-8 col-md-push-4">
 					<h2>Lorem ipsum dolor sit amet.</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore quis et recusandae atque, quos, dolore, rem, obcaecati ratione nesciunt similique accusamus? Esse ullam laboriosam error temporibus saepe totam asperiores hic at, eius officiis expedita ex corporis iusto deleniti ratione, possimus perspiciatis sunt consequatur, unde assumenda, nisi odit facilis quis ut!</p>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero laudantium totam sunt! Officiis quasi ipsam perspiciatis tenetur ipsum quibusdam eveniet eaque nihil dolorem doloremque nostrum fugiat optio asperiores ut non, pariatur! Culpa animi cumque corrupti laborum nulla. Tenetur, doloribus sint unde porro. Minus, ipsam iste quos totam unde vero dolore. Odio saepe minima totam quos illum, excepturi. Perferendis, tempore, non. Quidem animi enim est labore pariatur inventore beatae, et repellat eius nihil numquam quae explicabo quod dolorem earum doloribus voluptatem molestiae qui placeat tempore aperiam odit. Aperiam laudantium architecto, voluptatum dolorem pariatur consectetur, fugit repellendus, dolore placeat a soluta at.</p>
@@ -61,7 +66,8 @@
 					
 				</div>
 
-				<div class="col-md-4">
+				<div class="col-md-4 col-md-pull-8">
+
 					<div class="fh5co-sidebox">
 						<h3 class="fh5co-sidebox-lead">Image List</h3>	
 						<ul class="fh5co-post">
@@ -95,7 +101,7 @@
 						</ul>
 						
 					</div>
-
+					
 					<div class="fh5co-sidebox">
 						<h3 class="fh5co-sidebox-lead">Paragraph</h3>	
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, temporibus vitae. Dolores sequi, animi dolorem. Ullam minima laudantium culpa dolorem, nulla doloribus totam obcaecati reprehenderit quasi nam eius autem nihil.</p>
@@ -119,92 +125,4 @@
 
 	<div class="fh5co-spacer fh5co-spacer-lg"></div>
 
-	<footer id="fh5co-footer">
-		
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6 col-sm-6">
-					<div class="fh5co-footer-widget">
-						<h2 class="fh5co-footer-logo">Booster</h2>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-					</div>
-					<div class="fh5co-footer-widget">
-						<ul class="fh5co-social">
-							<li><a href="#"><i class="icon-facebook"></i></a></li>
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
-							<li><a href="#"><i class="icon-instagram"></i></a></li>
-							<li><a href="#"><i class="icon-linkedin"></i></a></li>
-							<li><a href="#"><i class="icon-youtube"></i></a></li>
-						</ul>
-					</div>
-				</div>
-
-				<div class="col-md-2 col-sm-6">
-					<div class="fh5co-footer-widget top-level">
-						<h4 class="fh5co-footer-lead ">Company</h4>
-						<ul>
-							<li><a href="#">About</a></li>
-							<li><a href="#">Contact</a></li>
-							<li><a href="#">News</a></li>
-							<li><a href="#">Support</a></li>
-							<li><a href="#">Career</a></li>
-						</ul>
-					</div>
-				</div>
-				
-				<div class="visible-sm-block clearfix"></div>
-
-				<div class="col-md-2 col-sm-6">
-					<div class="fh5co-footer-widget top-level">
-						<h4 class="fh5co-footer-lead">Features</h4>
-						<ul class="fh5co-list-check">
-							<li><a href="#">Lorem ipsum dolor.</a></li>
-							<li><a href="#">Ipsum mollitia dolore.</a></li>
-							<li><a href="#">Eius similique in.</a></li>
-							<li><a href="#">Aspernatur similique nesciunt.</a></li>
-							<li><a href="#">Laboriosam ad commodi.</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-md-2 col-sm-6">
-					<div class="fh5co-footer-widget top-level">
-						<h4 class="fh5co-footer-lead ">Products</h4>
-						<ul class="fh5co-list-check">
-							<li><a href="#">Lorem ipsum dolor.</a></li>
-							<li><a href="#">Ipsum mollitia dolore.</a></li>
-							<li><a href="#">Eius similique in.</a></li>
-							<li><a href="#">Aspernatur similique nesciunt.</a></li>
-							<li><a href="#">Laboriosam ad commodi.</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-
-			<div class="row fh5co-row-padded fh5co-copyright">
-				<div class="col-md-5">
-					<p><small>&copy; Booster Free HTML5 Template. All Rights Reserved. <br> Designed by: <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> | Images by: <a href="http://deathtothestockphoto.com/" target="_blank">DeathToTheStockPhoto</a> </small></p>
-				</div>
-			</div>
-		</div>
-
-	</footer>
-
-
-	<!-- jQuery -->
-	<script src="js/jquery.min.js"></script>
-	<!-- jQuery Easing -->
-	<script src="js/jquery.easing.1.3.js"></script>
-	<!-- Bootstrap -->
-	<script src="js/bootstrap.min.js"></script>
-	<!-- Owl carousel -->
-	<script src="js/owl.carousel.min.js"></script>
-	<!-- Waypoints -->
-	<script src="js/jquery.waypoints.min.js"></script>
-	<!-- Magnific Popup -->
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<!-- Main JS -->
-	<script src="js/main.js"></script>
-
-	
-	</body>
-</html>
+	@include('partials._footer')
