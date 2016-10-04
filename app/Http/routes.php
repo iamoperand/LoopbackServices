@@ -17,9 +17,8 @@ Route::get('/', function () {
 Route::get('/left-sidebar', function () {
     return view('left-sidebar');
 });
-Route::get('/pricing', function () {
-    return view('pricing');
-});
-Route::get('/tour', function () {
-    return view('tour');
+
+
+Route::get('/about',function() {
+	return view('aboutus');
 });
