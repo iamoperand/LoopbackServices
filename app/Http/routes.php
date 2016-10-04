@@ -11,7 +11,9 @@
 |
 */
 
+
 Route::get('/', 'PagesController@getIndex');
 Route::get('/about', 'PagesController@getAbout');
 Route::get('/services', 'PagesController@getServices');
 Route::get('/contact', 'PagesController@getContact' );
+
