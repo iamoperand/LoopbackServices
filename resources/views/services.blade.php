@@ -6,15 +6,15 @@
 @include('partials._header')		
 	
 	
-	<aside class="fh5co-page-heading">
+	<aside class="genit-page-heading">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="fh5co-page-heading-lead">
+					<h1 class="genit-page-heading-lead">
 						
 						Services
 
-						<span class="fh5co-border"></span>
+						<span class="genit-border"></span>
 					</h1>
 					
 				</div>
@@ -22,7 +22,7 @@
 		</div>
 	</aside>
 	
-	<div id="fh5co-main">
+	<div id="genit-main">
 		
 		<div class="container">
 			<div class="row">
@@ -38,11 +38,11 @@
 							<p><a href="images/slide_2.jpg" class="image-popup"><img src="images/slide_2.jpg" alt="FREEHTML5.co Free HTML5 Template" class="img-responsive img-rounded"></a></p>
 						</div>
 					</div>
-					<div class="fh5co-spacer fh5co-spacer-xxs"></div>
+					<div class="genit-spacer genit-spacer-xxs"></div>
 					<div class="row">
 						<div class="col-md-6">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore accusantium, totam earum amet dolorum ut fuga, tempora veniam numquam dicta.</p>
-							<ul class="fh5co-list-check">
+							<ul class="genit-list-check">
 								<li>Lorem ipsum dolor sit.</li>
 								<li>Nostrum eveniet animi sint.</li>
 								<li>Dolore eligendi, porro ipsam.</li>
@@ -52,7 +52,7 @@
 						</div>
 						<div class="col-md-6">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore accusantium, totam earum amet dolorum ut fuga, tempora veniam numquam dicta.</p>
-							<ul class="fh5co-list-check">
+							<ul class="genit-list-check">
 								<li>Lorem ipsum dolor sit amet, consectetur.</li>
 								<li>Architecto eius aut culpa nihil quibusdam!</li>
 								<li>Quasi sit, error vitae unde ipsa.</li>
@@ -68,33 +68,33 @@
 
 				<div class="col-md-4 col-md-pull-8">
 
-					<div class="fh5co-sidebox">
-						<h3 class="fh5co-sidebox-lead">Image List</h3>	
-						<ul class="fh5co-post">
+					<div class="genit-sidebox">
+						<h3 class="genit-sidebox-lead">Image List</h3>	
+						<ul class="genit-post">
 							<li>
 								<a href="#">
-									<div class="fh5co-post-media"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-									<div class="fh5co-post-blurb">
+									<div class="genit-post-media"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
+									<div class="genit-post-blurb">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-										<span class="fh5co-post-meta">Oct. 12, 2015</span>
+										<span class="genit-post-meta">Oct. 12, 2015</span>
 									</div>
 								</a>
 							</li>
 							<li>
 								<a href="#">
-									<div class="fh5co-post-media"><img src="images/slide_2.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-									<div class="fh5co-post-blurb">
+									<div class="genit-post-media"><img src="images/slide_2.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
+									<div class="genit-post-blurb">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-										<span class="fh5co-post-meta">Oct. 12, 2015</span>
+										<span class="genit-post-meta">Oct. 12, 2015</span>
 									</div>
 								</a>
 							</li>
 							<li>
 								<a href="#">
-									<div class="fh5co-post-media"><img src="images/slide_3.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-									<div class="fh5co-post-blurb">
+									<div class="genit-post-media"><img src="images/slide_3.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
+									<div class="genit-post-blurb">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-										<span class="fh5co-post-meta">Oct. 12, 2015</span>
+										<span class="genit-post-meta">Oct. 12, 2015</span>
 									</div>
 								</a>
 							</li>
@@ -102,14 +102,14 @@
 						
 					</div>
 					
-					<div class="fh5co-sidebox">
-						<h3 class="fh5co-sidebox-lead">Paragraph</h3>	
+					<div class="genit-sidebox">
+						<h3 class="genit-sidebox-lead">Paragraph</h3>	
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, temporibus vitae. Dolores sequi, animi dolorem. Ullam minima laudantium culpa dolorem, nulla doloribus totam obcaecati reprehenderit quasi nam eius autem nihil.</p>
 					</div>
 
-					<div class="fh5co-sidebox">
-						<h3 class="fh5co-sidebox-lead">Check list</h3>	
-						<ul class="fh5co-list-check">
+					<div class="genit-sidebox">
+						<h3 class="genit-sidebox-lead">Check list</h3>	
+						<ul class="genit-list-check">
 							<li>Lorem ipsum dolor sit.</li>
 							<li>Nostrum eveniet animi sint.</li>
 							<li>Dolore eligendi, porro ipsam.</li>
@@ -123,6 +123,6 @@
 		</div>
 	</div>
 
-	<div class="fh5co-spacer fh5co-spacer-lg"></div>
+	<div class="genit-spacer genit-spacer-lg"></div>
 
 	@include('partials._footer')

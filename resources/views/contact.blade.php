@@ -3,13 +3,13 @@
 		
 @include('partials._header')
 	
-	<aside class="fh5co-page-heading">
+	<aside class="genit-page-heading">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="fh5co-page-heading-lead">
+					<h1 class="genit-page-heading-lead">
 						Contact Us
-						<span class="fh5co-border"></span>
+						<span class="genit-border"></span>
 					</h1>
 					
 				</div>
@@ -17,7 +17,7 @@
 		</div>
 	</aside>
 	
-	<div id="fh5co-main">
+	<div id="genit-main">
 		
 		<div class="container">
 			<div class="row">
@@ -93,11 +93,11 @@ height: 80px;
 					</div>
 
 					<h2>Image alignment</h2>
-					<img src="images/img_small_1.jpg" alt="FREEHTML5.co Free HTML5 Bootstrap template" class="fh5co-align-left img-responsive">
+					<img src="images/img_small_1.jpg" alt="FREEHTML5.co Free HTML5 Bootstrap template" class="genit-align-left img-responsive">
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, asperiores, hic. Nihil, fugit. Illo maxime nemo minus magnam recusandae, ab culpa dignissimos velit. Consequatur voluptate, veniam ad ea asperiores sequi culpa, distinctio qui voluptates enim, fugit sint architecto rerum numquam deleniti incidunt ipsa omnis soluta similique quaerat deserunt provident repellendus excepturi! Alias natus dicta quasi hic obcaecati, pariatur eaque enim suscipit exercitationem quo libero eveniet aliquam repudiandae, nobis, quos tenetur ipsa quia eligendi expedita beatae laboriosam non molestias rem. Totam, aspernatur qui eos harum iusto reprehenderit corporis similique. Corporis delectus ullam earum sint in cum repellat laborum error et dolorum.
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi ipsam, sint voluptas esse quaerat modi, ex minus provident est consectetur facilis enim vitae, cupiditate deleniti numquam illo labore maiores fuga dolorum. Quae tempora hic, dolorum possimus porro sapiente! Exercitationem velit harum, assumenda deserunt minus dolorem atque illo? Repudiandae atque, magni. Lorem ipsum dolor sit amet, consectetur adipisicing elit. At sequi doloremque ullam consequuntur saepe eaque magnam incidunt eligendi inventore unde quaerat mollitia, delectus, autem blanditiis modi beatae accusantium sapiente aperiam, praesentium odit. Eum quos, quas quasi quae repudiandae, velit et facere explicabo excepturi eaque sint tempore distinctio suscipit aspernatur nostrum reiciendis accusantium tenetur. Tempora enim consequuntur eos? Provident, at, obcaecati doloremque exercitationem hic autem est veritatis, voluptatum quos ad voluptatem similique sint nam corporis. Quia minus numquam tempora officiis, quo corrupti tempore natus sequi placeat. Quibusdam veniam nesciunt modi doloribus sapiente rerum perspiciatis praesentium esse dicta, magnam quaerat, sit optio!</p>
 
-					<img src="images/img_small_2.jpg" alt="FREEHTML5.co Free HTML5 Bootstrap template" class="fh5co-align-right img-responsive">
+					<img src="images/img_small_2.jpg" alt="FREEHTML5.co Free HTML5 Bootstrap template" class="genit-align-right img-responsive">
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, asperiores, hic. Nihil, fugit. Illo maxime nemo minus magnam recusandae, ab culpa dignissimos velit. Consequatur voluptate, veniam ad ea asperiores sequi culpa, distinctio qui voluptates enim, fugit sint architecto rerum numquam deleniti incidunt ipsa omnis soluta similique quaerat deserunt provident repellendus excepturi! Alias natus dicta quasi hic obcaecati, pariatur eaque enim suscipit exercitationem quo libero eveniet aliquam repudiandae, nobis, quos tenetur ipsa quia eligendi expedita beatae laboriosam non molestias rem. Totam, aspernatur qui eos harum iusto reprehenderit corporis similique. Corporis delectus ullam earum sint in cum repellat laborum error et dolorum.
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi ipsam, sint voluptas esse quaerat modi, ex minus provident est consectetur facilis enim vitae, cupiditate deleniti numquam illo labore maiores fuga dolorum. Quae tempora hic, dolorum possimus porro sapiente! Exercitationem velit harum, assumenda deserunt minus dolorem atque illo? Repudiandae atque, magni. Lorem ipsum dolor sit amet, consectetur adipisicing elit. At sequi doloremque ullam consequuntur saepe eaque magnam incidunt eligendi inventore unde quaerat mollitia, delectus, autem blanditiis modi beatae accusantium sapiente aperiam, praesentium odit. Eum quos, quas quasi quae repudiandae, velit et facere explicabo excepturi eaque sint tempore distinctio suscipit aspernatur nostrum reiciendis accusantium tenetur. Tempora enim consequuntur eos? Provident, at, obcaecati doloremque exercitationem hic autem est veritatis, voluptatum quos ad voluptatem similique sint nam corporis. Quia minus numquam tempora officiis, quo corrupti tempore natus sequi placeat. Quibusdam veniam nesciunt modi doloribus sapiente rerum perspiciatis praesentium esse dicta, magnam quaerat, sit optio!</p>
 					
@@ -110,33 +110,33 @@ height: 80px;
 
 				<div class="col-md-4 col-md-pull-8">
 
-					<div class="fh5co-sidebox">
-						<h3 class="fh5co-sidebox-lead">Image List</h3>	
-						<ul class="fh5co-post">
+					<div class="genit-sidebox">
+						<h3 class="genit-sidebox-lead">Image List</h3>	
+						<ul class="genit-post">
 							<li>
 								<a href="#">
-									<div class="fh5co-post-media"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-									<div class="fh5co-post-blurb">
+									<div class="genit-post-media"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
+									<div class="genit-post-blurb">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-										<span class="fh5co-post-meta">Oct. 12, 2015</span>
+										<span class="genit-post-meta">Oct. 12, 2015</span>
 									</div>
 								</a>
 							</li>
 							<li>
 								<a href="#">
-									<div class="fh5co-post-media"><img src="images/slide_2.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-									<div class="fh5co-post-blurb">
+									<div class="genit-post-media"><img src="images/slide_2.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
+									<div class="genit-post-blurb">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-										<span class="fh5co-post-meta">Oct. 12, 2015</span>
+										<span class="genit-post-meta">Oct. 12, 2015</span>
 									</div>
 								</a>
 							</li>
 							<li>
 								<a href="#">
-									<div class="fh5co-post-media"><img src="images/slide_3.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-									<div class="fh5co-post-blurb">
+									<div class="genit-post-media"><img src="images/slide_3.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
+									<div class="genit-post-blurb">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-										<span class="fh5co-post-meta">Oct. 12, 2015</span>
+										<span class="genit-post-meta">Oct. 12, 2015</span>
 									</div>
 								</a>
 							</li>
@@ -144,14 +144,14 @@ height: 80px;
 						
 					</div>
 
-					<div class="fh5co-sidebox">
-						<h3 class="fh5co-sidebox-lead">Paragraph</h3>	
+					<div class="genit-sidebox">
+						<h3 class="genit-sidebox-lead">Paragraph</h3>	
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, temporibus vitae. Dolores sequi, animi dolorem. Ullam minima laudantium culpa dolorem, nulla doloribus totam obcaecati reprehenderit quasi nam eius autem nihil.</p>
 					</div>
 
-					<div class="fh5co-sidebox">
-						<h3 class="fh5co-sidebox-lead">Check list</h3>	
-						<ul class="fh5co-list-check">
+					<div class="genit-sidebox">
+						<h3 class="genit-sidebox-lead">Check list</h3>	
+						<ul class="genit-list-check">
 							<li>Lorem ipsum dolor sit.</li>
 							<li>Nostrum eveniet animi sint.</li>
 							<li>Dolore eligendi, porro ipsam.</li>
@@ -165,94 +165,6 @@ height: 80px;
 		</div>
 	</div>
 
-	<div class="fh5co-spacer fh5co-spacer-lg"></div>
+	<div class="genit-spacer genit-spacer-lg"></div>
 
-	<footer id="fh5co-footer">
-		
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6 col-sm-6">
-					<div class="fh5co-footer-widget">
-						<h2 class="fh5co-footer-logo">Booster</h2>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-					</div>
-					<div class="fh5co-footer-widget">
-						<ul class="fh5co-social">
-							<li><a href="#"><i class="icon-facebook"></i></a></li>
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
-							<li><a href="#"><i class="icon-instagram"></i></a></li>
-							<li><a href="#"><i class="icon-linkedin"></i></a></li>
-							<li><a href="#"><i class="icon-youtube"></i></a></li>
-						</ul>
-					</div>
-				</div>
-
-				<div class="col-md-2 col-sm-6">
-					<div class="fh5co-footer-widget top-level">
-						<h4 class="fh5co-footer-lead ">Company</h4>
-						<ul>
-							<li><a href="#">About</a></li>
-							<li><a href="#">Contact</a></li>
-							<li><a href="#">News</a></li>
-							<li><a href="#">Support</a></li>
-							<li><a href="#">Career</a></li>
-						</ul>
-					</div>
-				</div>
-				
-				<div class="visible-sm-block clearfix"></div>
-
-				<div class="col-md-2 col-sm-6">
-					<div class="fh5co-footer-widget top-level">
-						<h4 class="fh5co-footer-lead">Features</h4>
-						<ul class="fh5co-list-check">
-							<li><a href="#">Lorem ipsum dolor.</a></li>
-							<li><a href="#">Ipsum mollitia dolore.</a></li>
-							<li><a href="#">Eius similique in.</a></li>
-							<li><a href="#">Aspernatur similique nesciunt.</a></li>
-							<li><a href="#">Laboriosam ad commodi.</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-md-2 col-sm-6">
-					<div class="fh5co-footer-widget top-level">
-						<h4 class="fh5co-footer-lead ">Products</h4>
-						<ul class="fh5co-list-check">
-							<li><a href="#">Lorem ipsum dolor.</a></li>
-							<li><a href="#">Ipsum mollitia dolore.</a></li>
-							<li><a href="#">Eius similique in.</a></li>
-							<li><a href="#">Aspernatur similique nesciunt.</a></li>
-							<li><a href="#">Laboriosam ad commodi.</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-
-			<div class="row fh5co-row-padded fh5co-copyright">
-				<div class="col-md-5">
-					<p><small>&copy; Booster Free HTML5 Template. All Rights Reserved. <br>Designed by: <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> | Images by: <a href="http://deathtothestockphoto.com/" target="_blank">DeathToTheStockPhoto</a> </small></p>
-				</div>
-			</div>
-		</div>
-
-	</footer>
-
-
-	<!-- jQuery -->
-	<script src="js/jquery.min.js"></script>
-	<!-- jQuery Easing -->
-	<script src="js/jquery.easing.1.3.js"></script>
-	<!-- Bootstrap -->
-	<script src="js/bootstrap.min.js"></script>
-	<!-- Owl carousel -->
-	<script src="js/owl.carousel.min.js"></script>
-	<!-- Waypoints -->
-	<script src="js/jquery.waypoints.min.js"></script>
-	<!-- Magnific Popup -->
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<!-- Main JS -->
-	<script src="js/main.js"></script>
-
-	
-	</body>
-</html>
+	@include('partials._footer')

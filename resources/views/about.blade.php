@@ -3,13 +3,13 @@
 	<body>
 		
 	@include('partials._header')
-	<aside class="fh5co-page-heading">
+	<aside class="genit-page-heading">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="fh5co-page-heading-lead">
+					<h1 class="genit-page-heading-lead">
 						About Us
-						<span class="fh5co-border"></span>
+						<span class="genit-border"></span>
 					</h1>
 					
 				</div>
@@ -17,7 +17,7 @@
 		</div>
 	</aside>
 	
-	<div id="fh5co-main">
+	<div id="genit-main">
 		
 		<div class="container">
 			<div class="row">
@@ -33,11 +33,11 @@
 							<p><a href="images/slide_2.jpg" class="image-popup"><img src="images/slide_2.jpg" alt="FREEHTML5.co Free HTML5 Template" class="img-responsive img-rounded"></a></p>
 						</div>
 					</div>
-					<div class="fh5co-spacer fh5co-spacer-xxs"></div>
+					<div class="genit-spacer genit-spacer-xxs"></div>
 					<div class="row">
 						<div class="col-md-6">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore accusantium, totam earum amet dolorum ut fuga, tempora veniam numquam dicta.</p>
-							<ul class="fh5co-list-check">
+							<ul class="genit-list-check">
 								<li>Lorem ipsum dolor sit.</li>
 								<li>Nostrum eveniet animi sint.</li>
 								<li>Dolore eligendi, porro ipsam.</li>
@@ -47,7 +47,7 @@
 						</div>
 						<div class="col-md-6">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore accusantium, totam earum amet dolorum ut fuga, tempora veniam numquam dicta.</p>
-							<ul class="fh5co-list-check">
+							<ul class="genit-list-check">
 								<li>Lorem ipsum dolor sit amet, consectetur.</li>
 								<li>Architecto eius aut culpa nihil quibusdam!</li>
 								<li>Quasi sit, error vitae unde ipsa.</li>
@@ -62,33 +62,33 @@
 				</div>
 
 				<div class="col-md-4">
-					<div class="fh5co-sidebox">
-						<h3 class="fh5co-sidebox-lead">Image List</h3>	
-						<ul class="fh5co-post">
+					<div class="genit-sidebox">
+						<h3 class="genit-sidebox-lead">Image List</h3>	
+						<ul class="genit-post">
 							<li>
 								<a href="#">
-									<div class="fh5co-post-media"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-									<div class="fh5co-post-blurb">
+									<div class="genit-post-media"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
+									<div class="genit-post-blurb">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-										<span class="fh5co-post-meta">Oct. 12, 2015</span>
+										<span class="genit-post-meta">Oct. 12, 2015</span>
 									</div>
 								</a>
 							</li>
 							<li>
 								<a href="#">
-									<div class="fh5co-post-media"><img src="images/slide_2.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-									<div class="fh5co-post-blurb">
+									<div class="genit-post-media"><img src="images/slide_2.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
+									<div class="genit-post-blurb">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-										<span class="fh5co-post-meta">Oct. 12, 2015</span>
+										<span class="genit-post-meta">Oct. 12, 2015</span>
 									</div>
 								</a>
 							</li>
 							<li>
 								<a href="#">
-									<div class="fh5co-post-media"><img src="images/slide_3.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-									<div class="fh5co-post-blurb">
+									<div class="genit-post-media"><img src="images/slide_3.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
+									<div class="genit-post-blurb">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-										<span class="fh5co-post-meta">Oct. 12, 2015</span>
+										<span class="genit-post-meta">Oct. 12, 2015</span>
 									</div>
 								</a>
 							</li>
@@ -96,14 +96,14 @@
 						
 					</div>
 
-					<div class="fh5co-sidebox">
-						<h3 class="fh5co-sidebox-lead">Paragraph</h3>	
+					<div class="genit-sidebox">
+						<h3 class="genit-sidebox-lead">Paragraph</h3>	
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, temporibus vitae. Dolores sequi, animi dolorem. Ullam minima laudantium culpa dolorem, nulla doloribus totam obcaecati reprehenderit quasi nam eius autem nihil.</p>
 					</div>
 
-					<div class="fh5co-sidebox">
-						<h3 class="fh5co-sidebox-lead">Check list</h3>	
-						<ul class="fh5co-list-check">
+					<div class="genit-sidebox">
+						<h3 class="genit-sidebox-lead">Check list</h3>	
+						<ul class="genit-list-check">
 							<li>Lorem ipsum dolor sit.</li>
 							<li>Nostrum eveniet animi sint.</li>
 							<li>Dolore eligendi, porro ipsam.</li>
@@ -117,19 +117,19 @@
 		</div>
 	</div>
 
-	<div class="fh5co-spacer fh5co-spacer-lg"></div>
+	<div class="genit-spacer genit-spacer-lg"></div>
 
-	<footer id="fh5co-footer">
+	<footer id="genit-footer">
 		
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-sm-6">
-					<div class="fh5co-footer-widget">
-						<h2 class="fh5co-footer-logo">Booster</h2>
+					<div class="genit-footer-widget">
+						<h2 class="genit-footer-logo">Booster</h2>
 						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 					</div>
-					<div class="fh5co-footer-widget">
-						<ul class="fh5co-social">
+					<div class="genit-footer-widget">
+						<ul class="genit-social">
 							<li><a href="#"><i class="icon-facebook"></i></a></li>
 							<li><a href="#"><i class="icon-twitter"></i></a></li>
 							<li><a href="#"><i class="icon-instagram"></i></a></li>
@@ -140,8 +140,8 @@
 				</div>
 
 				<div class="col-md-2 col-sm-6">
-					<div class="fh5co-footer-widget top-level">
-						<h4 class="fh5co-footer-lead ">Company</h4>
+					<div class="genit-footer-widget top-level">
+						<h4 class="genit-footer-lead ">Company</h4>
 						<ul>
 							<li><a href="#">About</a></li>
 							<li><a href="#">Contact</a></li>
@@ -155,9 +155,9 @@
 				<div class="visible-sm-block clearfix"></div>
 
 				<div class="col-md-2 col-sm-6">
-					<div class="fh5co-footer-widget top-level">
-						<h4 class="fh5co-footer-lead">Features</h4>
-						<ul class="fh5co-list-check">
+					<div class="genit-footer-widget top-level">
+						<h4 class="genit-footer-lead">Features</h4>
+						<ul class="genit-list-check">
 							<li><a href="#">Lorem ipsum dolor.</a></li>
 							<li><a href="#">Ipsum mollitia dolore.</a></li>
 							<li><a href="#">Eius similique in.</a></li>
@@ -167,9 +167,9 @@
 					</div>
 				</div>
 				<div class="col-md-2 col-sm-6">
-					<div class="fh5co-footer-widget top-level">
-						<h4 class="fh5co-footer-lead ">Products</h4>
-						<ul class="fh5co-list-check">
+					<div class="genit-footer-widget top-level">
+						<h4 class="genit-footer-lead ">Products</h4>
+						<ul class="genit-list-check">
 							<li><a href="#">Lorem ipsum dolor.</a></li>
 							<li><a href="#">Ipsum mollitia dolore.</a></li>
 							<li><a href="#">Eius similique in.</a></li>
@@ -180,7 +180,7 @@
 				</div>
 			</div>
 
-			<div class="row fh5co-row-padded fh5co-copyright">
+			<div class="row genit-row-padded genit-copyright">
 				<div class="col-md-5">
 					<p><small>&copy; Booster Free HTML5 Template. All Rights Reserved. <br> Designed by: <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> | Images by: <a href="http://deathtothestockphoto.com/" target="_blank">DeathToTheStockPhoto</a> </small></p>
 				</div>

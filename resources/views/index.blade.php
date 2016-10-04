@@ -6,26 +6,7 @@
 
 	@include('partials._header')
 
-	<header id="genit-header" role="banner">
-		<nav class="navbar navbar-default" role="navigation">
-			<div class="container-fluid">
-				<div class="navbar-header"> 
-				<!-- Mobile Toggle Menu Button -->
-				<a href="#" class="js-genit-nav-toggle genit-nav-toggle" data-toggle="collapse" data-target="#genit-navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
-				<a class="navbar-brand" href="index.html">Incord Solutions</a>
-				</div>
-				<div id="genit-navbar" class="navbar-collapse collapse">
-					<ul class="nav navbar-nav navbar-right">
-						<li class="active"><a href="index.html"><span>Home <span class="border"></span></span></a></li>
-						<li><a href="right-sidebar.html"><span>About Us <span class="border"></span></span></a></li>
-						<li><a href="left-sidebar.html"><span>Services <span class="border"></span></span></a></li>
-						<li><a href="elements.html"><span>Contact Us <span class="border"></span></span></a></li>
-					</ul>
-				</div>
-			</div>
-		</nav>
-	</header>
-	<!-- END .header -->
+	
 
 	
 	<div class="genit-slider">
