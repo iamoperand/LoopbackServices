@@ -22,15 +22,17 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8">
-					<h2>Lorem ipsum dolor sit amet.</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore quis et recusandae atque, quos, dolore, rem, obcaecati ratione nesciunt similique accusamus? Esse ullam laboriosam error temporibus saepe totam asperiores hic at, eius officiis expedita ex corporis iusto deleniti ratione, possimus perspiciatis sunt consequatur, unde assumenda, nisi odit facilis quis ut!</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero laudantium totam sunt! Officiis quasi ipsam perspiciatis tenetur ipsum quibusdam eveniet eaque nihil dolorem doloremque nostrum fugiat optio asperiores ut non, pariatur! Culpa animi cumque corrupti laborum nulla. Tenetur, doloribus sint unde porro. Minus, ipsam iste quos totam unde vero dolore. Odio saepe minima totam quos illum, excepturi. Perferendis, tempore, non. Quidem animi enim est labore pariatur inventore beatae, et repellat eius nihil numquam quae explicabo quod dolorem earum doloribus voluptatem molestiae qui placeat tempore aperiam odit. Aperiam laudantium architecto, voluptatum dolorem pariatur consectetur, fugit repellendus, dolore placeat a soluta at.</p>
+					<h2>Loopback Services</h2>
+					<p>Loopback Services is fast growing network service provider with passionate and certified people.</p>
+					<p>We have expertise in Network Design, Monitoring, Optimization, Security services. We offer services that are affordable to all enterprises and we also take responsibility to support and deliver the project within specified time.</p>
+					<p>We want you to grow, get more profit out of your business by stabilizing of your LAN, WAN network.</p>
+					<p>We have team of certified network engineer, which will provide expert support for enterprise.</p>
 					<div class="row">
 						<div class="col-md-6">
-							<p><a href="images/slide_1.jpg" class="image-popup"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template" class="img-responsive img-rounded"></a></p>
+							<p><a href="images/slide_1.jpg" class="image-popup"><img src="images/slide_1.jpg" alt="" class="img-responsive img-rounded"></a></p>
 						</div>
 						<div class="col-md-6">
-							<p><a href="images/slide_2.jpg" class="image-popup"><img src="images/slide_2.jpg" alt="FREEHTML5.co Free HTML5 Template" class="img-responsive img-rounded"></a></p>
+							<p><a href="images/slide_2.jpg" class="image-popup"><img src="images/slide_2.jpg" alt="" class="img-responsive img-rounded"></a></p>
 						</div>
 					</div>
 					<div class="genit-spacer genit-spacer-xxs"></div>
@@ -67,7 +69,7 @@
 						<ul class="genit-post">
 							<li>
 								<a href="#">
-									<div class="genit-post-media"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
+									<div class="genit-post-media"><img src="images/slide_1.jpg" alt=""></div>
 									<div class="genit-post-blurb">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 										<span class="genit-post-meta">Oct. 12, 2015</span>
@@ -76,7 +78,7 @@
 							</li>
 							<li>
 								<a href="#">
-									<div class="genit-post-media"><img src="images/slide_2.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
+									<div class="genit-post-media"><img src="images/slide_2.jpg" alt=""></div>
 									<div class="genit-post-blurb">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 										<span class="genit-post-meta">Oct. 12, 2015</span>
@@ -85,7 +87,7 @@
 							</li>
 							<li>
 								<a href="#">
-									<div class="genit-post-media"><img src="images/slide_3.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
+									<div class="genit-post-media"><img src="images/slide_3.jpg" alt=""></div>
 									<div class="genit-post-blurb">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 										<span class="genit-post-meta">Oct. 12, 2015</span>

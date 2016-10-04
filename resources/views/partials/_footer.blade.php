@@ -5,7 +5,7 @@
 				<div class="col-md-6 col-sm-6">
 					<div class="genit-footer-widget">
 						<h2 class="genit-footer-logo">Loopback Services</h2>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						<p>Loopback Services is fast growing network service provider with passionate and certified people. We have expertise in Network Design, Monitoring, Optimization, Security services.</p>
 					</div>
 					<div class="genit-footer-widget">
 						<ul class="genit-social">
@@ -33,11 +33,12 @@
 				<div class="col-md-offset-1 col-md-2 col-sm-12">
 					<div class="genit-footer-widget top-level">
 						<h4 class="genit-footer-lead">Services</h4>
+						<div style="line-height:125%;"><br/></div>
 						<ul class="genit-list-check">
-							<li><a href="#">Network Monitoring</a></li>
-							<li><a href="#">Network Design & Optimization</a></li>
-							<li><a href="#">Network Security</a></li>
-							<li><a href="#">Disaster Recovery</a></li>
+							<li><a href="/services#network_monitoring">Network Monitoring</a></li>
+							<li><a href="/services#network_design">Network Design & Optimization</a></li>
+							<li><a href="/services#network_security">Network Security</a></li>
+							<li><a href="/services#disaster_recovery">Disaster Recovery</a></li>
 							
 						</ul>
 					</div>
