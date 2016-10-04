@@ -4,7 +4,7 @@
 				<div class="navbar-header"> 
 				<!-- Mobile Toggle Menu Button -->
 				<a href="#" class="js-genit-nav-toggle genit-nav-toggle visible-xs-block" data-toggle="collapse" data-target="#genit-navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
-				<a class="navbar-brand" href="index">Incord Solutions</a>
+				<a class="navbar-brand" href="index">Loopback Services</a>
 				</div>
 				<div id="genit-navbar" class="navbar-collapse collapse">
 					<ul class="nav navbar-nav navbar-right">
