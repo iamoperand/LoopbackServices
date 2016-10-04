@@ -22,3 +22,6 @@ Route::get('/left-sidebar', function () {
 Route::get('/about',function() {
 	return view('aboutus');
 });
+Route::get('/element',function() {
+ erturn view('elements');
+});
