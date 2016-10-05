@@ -47,7 +47,7 @@
 						<p>We the Loopback Services will provide you Network monitoring services. We will take responsibility to handle all the live and future issues by certifies network engineer.</p>
 						
 						<p>Network Monitoring Service contains:</p>
-						<ul class="genit-list-check">
+						<ul class="genit-list-check" style="padding-left:50px;">
 							<li> Real-time Monitoring</li>
 							<li> Real-time Reports / Graphs</li>
 							<li> Historic Reports / Graphs</li>
@@ -140,7 +140,7 @@
 						<p>We the Loopback Services will provide you Network monitoring services. We will take responsibility to handle all the live and future issues by certifies network engineer.With throat cutting competitions between companies, backbone of company must be strong and optimized which is nothing but its network.</p>
 						
 						<p>Below are Network Design and Optimizations Services:</p>
-						<ul class="genit-list-check">
+						<ul class="genit-list-check" style="padding-left:50px;">
 							<li> Network Design</li>
 							<li> Network Implementation</li>
 							<li> Network Diagrams</li>
@@ -231,7 +231,7 @@
 						<p>We protect the underlying networking infrastructure from unauthorized access, misuse, malfunction, modification, destruction</p>
 						
 						<p>Below are Network Security Services:</p>
-						<ul class="genit-list-check">
+						<ul class="genit-list-check" style="padding-left:50px;">
 							<li> Security Device Configuration</li>
 							<li> Security Design Review</li>
 							<li> VPN Configuration</li>
