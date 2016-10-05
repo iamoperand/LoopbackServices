@@ -77,60 +77,7 @@
 				</div>
 
 
-				<!--
-				<div class="col-md-4 col-md-pull-8">
-
-					<div class="genit-sidebox">
-						<h3 class="genit-sidebox-lead">Image List</h3>	
-						<ul class="genit-post">
-							<li>
-								<a href="#">
-									<div class="genit-post-media"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-									<div class="genit-post-blurb">
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-										<span class="genit-post-meta">Oct. 12, 2015</span>
-									</div>
-								</a>
-							</li>
-							<li>
-								<a href="#">
-									<div class="genit-post-media"><img src="images/slide_2.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-									<div class="genit-post-blurb">
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-										<span class="genit-post-meta">Oct. 12, 2015</span>
-									</div>
-								</a>
-							</li>
-							<li>
-								<a href="#">
-									<div class="genit-post-media"><img src="images/slide_3.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-									<div class="genit-post-blurb">
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-										<span class="genit-post-meta">Oct. 12, 2015</span>
-									</div>
-								</a>
-							</li>
-						</ul>
-						
-					</div>
-
-					<div class="genit-sidebox">
-						<h3 class="genit-sidebox-lead">Paragraph</h3>	
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, temporibus vitae. Dolores sequi, animi dolorem. Ullam minima laudantium culpa dolorem, nulla doloribus totam obcaecati reprehenderit quasi nam eius autem nihil.</p>
-					</div>
-
-					<div class="genit-sidebox">
-						<h3 class="genit-sidebox-lead">Check list</h3>	
-						<ul class="genit-list-check">
-							<li>Lorem ipsum dolor sit.</li>
-							<li>Nostrum eveniet animi sint.</li>
-							<li>Dolore eligendi, porro ipsam.</li>
-							<li>Repudiandae voluptate dolorem voluptas.</li>
-							<li>Voluptate cupiditate, est laborum?</li>
-						</ul>
-					</div>
-				</div>
-				-->
+				
 			</div>
 		</div>
 	</div>

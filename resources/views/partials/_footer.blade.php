@@ -21,7 +21,7 @@
 				<div class=" col-md-offset-1 col-md-2 col-sm-12">
 					<div class="genit-footer-widget top-level">
 						<h4 class="genit-footer-lead" style="font-size:1.2em;">Loopback Services</h4>
-						<ul style="font-family: 'Philosopher', sans-serif;">
+						<ul style="font-family: 'Cantarell', sans-serif;">
 							<li><a href="/about">About</a></li>
 							<li><a href="/contact">Contact</a></li>
 						</ul>
@@ -34,7 +34,7 @@
 					<div class="genit-footer-widget top-level">
 						<h4 class="genit-footer-lead" style="font-size:1.2em;">Services</h4>
 						<div style="line-height:30%;"><br/></div>
-						<ul class="genit-list-check" style="font-family: 'Philosopher', sans-serif;">
+						<ul class="genit-list-check" style="font-family: 'Cantarell', sans-serif;">
 							<li><a href="/services#network_monitoring">Network Monitoring</a></li>
 							<li><a href="/services#network_design">Network Design and Optimization</a></li>
 							<li><a href="/services#network_security">Network Security</a></li>

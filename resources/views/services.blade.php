@@ -29,7 +29,7 @@
 
 			<section id="network_monitoring">
 				<div class="col-md-12 text-center" style="text-align:-moz-center;">
-					<h2>Network Monitoring</h2>
+					<h2>i) Network Monitoring</h2>
 				</div>
 				<div class="row">
 					<div class="col-md-12">
@@ -47,7 +47,7 @@
 						<p>We the Loopback Services will provide you Network monitoring services. We will take responsibility to handle all the live and future issues by certifies network engineer.</p>
 						
 						<p>Network Monitoring Service contains:</p>
-						<ul class="genit-list-check" style="padding-left:50px;">
+						<ul class="genit-list-check" style="padding-left:50px;font-family: 'Cantarell', sans-serif;font-weight:700;">
 							<li> Real-time Monitoring</li>
 							<li> Real-time Reports / Graphs</li>
 							<li> Historic Reports / Graphs</li>
@@ -63,65 +63,12 @@
 						
 						
 					</div>
-					<!--
-					<div class="col-md-4 col-md-pull-8">
-
-						<div class="genit-sidebox">
-							<h3 class="genit-sidebox-lead">Image List</h3>	
-							<ul class="genit-post">
-								<li>
-									<a href="#">
-										<div class="genit-post-media"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-										<div class="genit-post-blurb">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-											<span class="genit-post-meta">Oct. 12, 2015</span>
-										</div>
-									</a>
-								</li>
-								<li>
-									<a href="#">
-										<div class="genit-post-media"><img src="images/slide_2.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-										<div class="genit-post-blurb">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-											<span class="genit-post-meta">Oct. 12, 2015</span>
-										</div>
-									</a>
-								</li>
-								<li>
-									<a href="#">
-										<div class="genit-post-media"><img src="images/slide_3.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-										<div class="genit-post-blurb">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-											<span class="genit-post-meta">Oct. 12, 2015</span>
-										</div>
-									</a>
-								</li>
-							</ul>
-							
-						</div>
-						
-						<div class="genit-sidebox">
-							<h3 class="genit-sidebox-lead">Paragraph</h3>	
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, temporibus vitae. Dolores sequi, animi dolorem. Ullam minima laudantium culpa dolorem, nulla doloribus totam obcaecati reprehenderit quasi nam eius autem nihil.</p>
-						</div>
-
-						<div class="genit-sidebox">
-							<h3 class="genit-sidebox-lead">Check list</h3>	
-							<ul class="genit-list-check">
-								<li>Lorem ipsum dolor sit.</li>
-								<li>Nostrum eveniet animi sint.</li>
-								<li>Dolore eligendi, porro ipsam.</li>
-								<li>Repudiandae voluptate dolorem voluptas.</li>
-								<li>Voluptate cupiditate, est laborum?</li>
-							</ul>
-						</div>
-					</div>
-					-->
+					
 				</div>
 			</section>
 			<section id="network_design">
 				<div class="col-md-12 text-center" style="text-align:-moz-center;">
-					<h2>Network Design and Optimization</h2>
+					<h2>ii) Network Design and Optimization</h2>
 				</div>
 				<div class="row">
 					<div class="col-md-12">
@@ -140,7 +87,7 @@
 						<p>We the Loopback Services will provide you Network monitoring services. We will take responsibility to handle all the live and future issues by certifies network engineer.With throat cutting competitions between companies, backbone of company must be strong and optimized which is nothing but its network.</p>
 						
 						<p>Below are Network Design and Optimizations Services:</p>
-						<ul class="genit-list-check" style="padding-left:50px;">
+						<ul class="genit-list-check" style="padding-left:50px;font-family: 'Cantarell', sans-serif;font-weight:700;">
 							<li> Network Design</li>
 							<li> Network Implementation</li>
 							<li> Network Diagrams</li>
@@ -155,65 +102,12 @@
 						
 						
 					</div>
-					<!--
-					<div class="col-md-4 col-md-pull-8">
-
-						<div class="genit-sidebox">
-							<h3 class="genit-sidebox-lead">Image List</h3>	
-							<ul class="genit-post">
-								<li>
-									<a href="#">
-										<div class="genit-post-media"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-										<div class="genit-post-blurb">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-											<span class="genit-post-meta">Oct. 12, 2015</span>
-										</div>
-									</a>
-								</li>
-								<li>
-									<a href="#">
-										<div class="genit-post-media"><img src="images/slide_2.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-										<div class="genit-post-blurb">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-											<span class="genit-post-meta">Oct. 12, 2015</span>
-										</div>
-									</a>
-								</li>
-								<li>
-									<a href="#">
-										<div class="genit-post-media"><img src="images/slide_3.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-										<div class="genit-post-blurb">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-											<span class="genit-post-meta">Oct. 12, 2015</span>
-										</div>
-									</a>
-								</li>
-							</ul>
-							
-						</div>
-						
-						<div class="genit-sidebox">
-							<h3 class="genit-sidebox-lead">Paragraph</h3>	
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, temporibus vitae. Dolores sequi, animi dolorem. Ullam minima laudantium culpa dolorem, nulla doloribus totam obcaecati reprehenderit quasi nam eius autem nihil.</p>
-						</div>
-
-						<div class="genit-sidebox">
-							<h3 class="genit-sidebox-lead">Check list</h3>	
-							<ul class="genit-list-check">
-								<li>Lorem ipsum dolor sit.</li>
-								<li>Nostrum eveniet animi sint.</li>
-								<li>Dolore eligendi, porro ipsam.</li>
-								<li>Repudiandae voluptate dolorem voluptas.</li>
-								<li>Voluptate cupiditate, est laborum?</li>
-							</ul>
-						</div>
-					</div>
-					-->
+					
 				</div>
 			</section>
 			<section id="network_security">
 				<div class="col-md-12 text-center" style="text-align:-moz-center;">
-					<h2>Network Security</h2>
+					<h2>iii) Network Security</h2>
 				</div>
 				<div class="row">
 					<div class="col-md-12">
@@ -231,7 +125,7 @@
 						<p>We protect the underlying networking infrastructure from unauthorized access, misuse, malfunction, modification, destruction</p>
 						
 						<p>Below are Network Security Services:</p>
-						<ul class="genit-list-check" style="padding-left:50px;">
+						<ul class="genit-list-check" style="padding-left:50px;font-family: 'Cantarell', sans-serif;font-weight:700;">
 							<li> Security Device Configuration</li>
 							<li> Security Design Review</li>
 							<li> VPN Configuration</li>
@@ -246,65 +140,12 @@
 						
 						
 					</div>
-					<!--
-					<div class="col-md-4 col-md-pull-8">
-
-						<div class="genit-sidebox">
-							<h3 class="genit-sidebox-lead">Image List</h3>	
-							<ul class="genit-post">
-								<li>
-									<a href="#">
-										<div class="genit-post-media"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-										<div class="genit-post-blurb">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-											<span class="genit-post-meta">Oct. 12, 2015</span>
-										</div>
-									</a>
-								</li>
-								<li>
-									<a href="#">
-										<div class="genit-post-media"><img src="images/slide_2.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-										<div class="genit-post-blurb">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-											<span class="genit-post-meta">Oct. 12, 2015</span>
-										</div>
-									</a>
-								</li>
-								<li>
-									<a href="#">
-										<div class="genit-post-media"><img src="images/slide_3.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-										<div class="genit-post-blurb">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-											<span class="genit-post-meta">Oct. 12, 2015</span>
-										</div>
-									</a>
-								</li>
-							</ul>
-							
-						</div>
-						
-						<div class="genit-sidebox">
-							<h3 class="genit-sidebox-lead">Paragraph</h3>	
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, temporibus vitae. Dolores sequi, animi dolorem. Ullam minima laudantium culpa dolorem, nulla doloribus totam obcaecati reprehenderit quasi nam eius autem nihil.</p>
-						</div>
-
-						<div class="genit-sidebox">
-							<h3 class="genit-sidebox-lead">Check list</h3>	
-							<ul class="genit-list-check">
-								<li>Lorem ipsum dolor sit.</li>
-								<li>Nostrum eveniet animi sint.</li>
-								<li>Dolore eligendi, porro ipsam.</li>
-								<li>Repudiandae voluptate dolorem voluptas.</li>
-								<li>Voluptate cupiditate, est laborum?</li>
-							</ul>
-						</div>
-					</div>
-					-->
+					
 				</div>
 			</section>
 			<section id="disaster_recovery">
 				<div class="col-md-12 text-center" style="text-align:-moz-center;">
-					<h2>Disaster Recovery</h2>
+					<h2>iv) Disaster Recovery</h2>
 				</div>
 				<div class="row">
 					<div class="col-md-12">
@@ -328,60 +169,7 @@
 						
 						
 					</div>
-					<!--
-					<div class="col-md-4 col-md-pull-8">
-
-						<div class="genit-sidebox">
-							<h3 class="genit-sidebox-lead">Image List</h3>	
-							<ul class="genit-post">
-								<li>
-									<a href="#">
-										<div class="genit-post-media"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-										<div class="genit-post-blurb">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-											<span class="genit-post-meta">Oct. 12, 2015</span>
-										</div>
-									</a>
-								</li>
-								<li>
-									<a href="#">
-										<div class="genit-post-media"><img src="images/slide_2.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-										<div class="genit-post-blurb">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-											<span class="genit-post-meta">Oct. 12, 2015</span>
-										</div>
-									</a>
-								</li>
-								<li>
-									<a href="#">
-										<div class="genit-post-media"><img src="images/slide_3.jpg" alt="FREEHTML5.co Free HTML5 Template"></div>
-										<div class="genit-post-blurb">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-											<span class="genit-post-meta">Oct. 12, 2015</span>
-										</div>
-									</a>
-								</li>
-							</ul>
-							
-						</div>
-						
-						<div class="genit-sidebox">
-							<h3 class="genit-sidebox-lead">Paragraph</h3>	
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, temporibus vitae. Dolores sequi, animi dolorem. Ullam minima laudantium culpa dolorem, nulla doloribus totam obcaecati reprehenderit quasi nam eius autem nihil.</p>
-						</div>
-
-						<div class="genit-sidebox">
-							<h3 class="genit-sidebox-lead">Check list</h3>	
-							<ul class="genit-list-check">
-								<li>Lorem ipsum dolor sit.</li>
-								<li>Nostrum eveniet animi sint.</li>
-								<li>Dolore eligendi, porro ipsam.</li>
-								<li>Repudiandae voluptate dolorem voluptas.</li>
-								<li>Voluptate cupiditate, est laborum?</li>
-							</ul>
-						</div>
-					</div>
-					-->
+					
 				</div>
 			</section>
 		</div>
