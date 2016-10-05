@@ -21,7 +21,7 @@
 		
 		<div class="container">
 			<div class="row">
-				<div class="col-md-8 col-md-push-4">
+				<div class="col-md-offset-2 col-md-8">
 					
 	       
 					<p><strong>Customer feedback is the lifeblood of our business. Tell us what’s on your mind, good or bad.</strong></p>
@@ -77,7 +77,7 @@
 				</div>
 
 
-
+				<!--
 				<div class="col-md-4 col-md-pull-8">
 
 					<div class="genit-sidebox">
@@ -130,7 +130,7 @@
 						</ul>
 					</div>
 				</div>
-				
+				-->
 			</div>
 		</div>
 	</div>

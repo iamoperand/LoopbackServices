@@ -21,12 +21,13 @@
 		
 		<div class="container">
 			<div class="row">
-				<div class="col-md-8">
+				<div class="col-md-8" style="">
 					<h2>Loopback Services</h2>
-					<p>Loopback Services is fast growing network service provider with passionate and certified people.</p>
+					<p style="margin-bottom:1.1em;font-family: 'Dosis', sans-serif;font-size:1.4em;">Loopback Services is fast growing network service provider with passionate and certified people.</p>
 					<p>We have expertise in Network Design, Monitoring, Optimization, Security services. We offer services that are affordable to all enterprises and we also take responsibility to support and deliver the project within specified time.</p>
 					<p>We want you to grow, get more profit out of your business by stabilizing of your LAN, WAN network.</p>
 					<p>We have team of certified network engineer, which will provide expert support for enterprise.</p>
+					<!--
 					<div class="row">
 						<div class="col-md-6">
 							<p><a href="images/slide_1.jpg" class="image-popup"><img src="images/slide_1.jpg" alt="" class="img-responsive img-rounded"></a></p>
@@ -60,9 +61,9 @@
 							</ul>
 						</div>
 					</div>
-					
+					-->
 				</div>
-
+				<!--
 				<div class="col-md-4">
 					<div class="genit-sidebox">
 						<h3 class="genit-sidebox-lead">Image List</h3>	
@@ -114,11 +115,10 @@
 						</ul>
 					</div>
 				</div>
-				
+				-->
 			</div>
 		</div>
 	</div>
-
 	<div class="genit-spacer genit-spacer-lg"></div>
 
 	@include('partials._footer')

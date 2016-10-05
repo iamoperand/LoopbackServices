@@ -30,7 +30,10 @@
 	<!-- Google Webfonts -->
 	<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100,500' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-	
+	<link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Voltaire" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Economica" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Philosopher" rel="stylesheet"> 
 
 
 	<!-- Bootstrap -->
@@ -56,6 +59,26 @@
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
 
+	<style>
+	p {
+
+		margin-bottom:1.1em;
+		font-family: 'Dosis', sans-serif;
+		font-size:1.4em;
+	}
+
+	h2 {
+		
+		font-size: 2.1em;
+		font-weight:700;
+		color:#545454;
+		font-family: 'Voltaire', sans-serif;
+	}
+	h4 {
+		
+		font-family: 'Economica', sans-serif;
+	}
+	</style>
 	</head>
 
 

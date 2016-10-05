@@ -32,8 +32,14 @@
 					<h2>Network Monitoring</h2>
 				</div>
 				<div class="row">
-					<div class="col-md-8 col-md-push-4">
+					<div class="col-md-12">
 						
+						<div class="row">
+							<div class="col-md-offset-2 col-md-8">
+								<p><a href="images/Network-Monitoring.jpg" class="image-popup"><img src="images/Network-Monitoring.jpg" alt="Network Monitoring" class="img-responsive img-rounded"></a></p>
+							</div>
+							
+						</div>
 						<div style="line-height:95%;"><br /></div>
 						<p>Monitoring network is crucial requirement for successful enterprise, there are vast variety of tool and applications that can provide monitoring to enterprise network.</p>
 						<p>We have industry standard tools for monitoring network which can provide 24/7/365 days monitoring. Real-time and historic utilization can also be available as per requirement, which will be beneficial to understand network improvement and network performance.</p>
@@ -52,17 +58,12 @@
 
 
 
-						<div class="row">
-							<div class="col-md-12">
-								<p><a href="images/slide_1.jpg" class="image-popup"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template" class="img-responsive img-rounded"></a></p>
-							</div>
-							
-						</div>
+						
 						<div class="genit-spacer genit-spacer-xxs"></div>
 						
 						
 					</div>
-
+					<!--
 					<div class="col-md-4 col-md-pull-8">
 
 						<div class="genit-sidebox">
@@ -115,7 +116,7 @@
 							</ul>
 						</div>
 					</div>
-					
+					-->
 				</div>
 			</section>
 			<section id="network_design">
@@ -123,8 +124,15 @@
 					<h2>Network Design and Optimization</h2>
 				</div>
 				<div class="row">
-					<div class="col-md-8 col-md-push-4">
+					<div class="col-md-12">
 						
+
+						<div class="row">
+							<div class="col-md-offset-2 col-md-8">
+								<p><a href="images/Network-Design.jpg" class="image-popup"><img src="images/Network-Design.jpg" alt="Network Design" class="img-responsive img-rounded"></a></p>
+							</div>
+							
+						</div>							
 						<div style="line-height:95%;"><br /></div>
 						<p>Best network design based on customer requirement is key of successful business.  Less efforts require to troubleshoot complicated issue in good network design.</p>
 						<p>We have experts that can provide best network design for enterprise that can provide optimized network performance.</p>
@@ -143,17 +151,11 @@
 
 
 
-						<div class="row">
-							<div class="col-md-12">
-								<p><a href="images/slide_1.jpg" class="image-popup"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template" class="img-responsive img-rounded"></a></p>
-							</div>
-							
-						</div>
 						<div class="genit-spacer genit-spacer-xxs"></div>
 						
 						
 					</div>
-
+					<!--
 					<div class="col-md-4 col-md-pull-8">
 
 						<div class="genit-sidebox">
@@ -206,7 +208,7 @@
 							</ul>
 						</div>
 					</div>
-					
+					-->
 				</div>
 			</section>
 			<section id="network_security">
@@ -214,8 +216,14 @@
 					<h2>Network Security</h2>
 				</div>
 				<div class="row">
-					<div class="col-md-8 col-md-push-4">
+					<div class="col-md-12">
 						
+						<div class="row">
+							<div class="col-md-offset-2 col-md-8">
+								<p><a href="images/Network-Security.jpg" class="image-popup"><img src="images/Network-Security.jpg" alt="Network Security" class="img-responsive img-rounded"></a></p>
+							</div>
+							
+						</div>
 						<div style="line-height:95%;"><br /></div>
 						<p>Network Security is most important concern for enterprise. It contains Authentication, Authorization and Accounting.</p>
 						<p>There are vast variety of product that can provide Network Security for enterprise, to support for those product are major challenges faced by them.</p>
@@ -233,17 +241,12 @@
 
 
 
-						<div class="row">
-							<div class="col-md-12">
-								<p><a href="images/slide_1.jpg" class="image-popup"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template" class="img-responsive img-rounded"></a></p>
-							</div>
-							
-						</div>
+						
 						<div class="genit-spacer genit-spacer-xxs"></div>
 						
 						
 					</div>
-
+					<!--
 					<div class="col-md-4 col-md-pull-8">
 
 						<div class="genit-sidebox">
@@ -296,7 +299,7 @@
 							</ul>
 						</div>
 					</div>
-					
+					-->
 				</div>
 			</section>
 			<section id="disaster_recovery">
@@ -304,8 +307,15 @@
 					<h2>Disaster Recovery</h2>
 				</div>
 				<div class="row">
-					<div class="col-md-8 col-md-push-4">
+					<div class="col-md-12">
 						
+						<div class="row">
+							<div class="col-md-offset-2 col-md-8">
+								<p><a href="images/Disaster-Recovery.jpg" class="image-popup"><img src="images/Disaster-Recovery.jpg" alt="Disaster Recovery" class="img-responsive img-rounded"></a></p>
+							</div>
+							
+						</div>
+
 						<div style="line-height:95%;"><br /></div>
 						<p>Disaster recovery is the area of security planning that deals with protecting an organization from the effects of significant negative events. Significant negative events, in this context, can include anything that puts an organization’s operations at risk: equipment failures, as well as hurricanes, earthquakes and other natural disasters. </p>
 						<p>We have industry standard tools to take configuration backup, we have capability to take backup of many devices at same time.</p>
@@ -313,17 +323,12 @@
 						
 
 
-						<div class="row">
-							<div class="col-md-12">
-								<p><a href="images/slide_1.jpg" class="image-popup"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template" class="img-responsive img-rounded"></a></p>
-							</div>
-							
-						</div>
+						
 						<div class="genit-spacer genit-spacer-xxs"></div>
 						
 						
 					</div>
-
+					<!--
 					<div class="col-md-4 col-md-pull-8">
 
 						<div class="genit-sidebox">
@@ -376,7 +381,7 @@
 							</ul>
 						</div>
 					</div>
-					
+					-->
 				</div>
 			</section>
 		</div>

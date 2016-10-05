@@ -12,7 +12,7 @@
 	
 	<div class="genit-slider">
 		<div class="owl-carousel owl-carousel-fullwidth">
-		    <div class="item" style="background-image:url(images/slide_1.jpg)">
+		    <div class="item" style="background-image:url(images/Network-Monitoring.jpg)">
 		    	<div class="genit-overlay"></div>
 		    	<div class="container">
 		    		<div class="row">
@@ -27,7 +27,7 @@
 		    		</div>
 		    	</div>
 		    </div>
-		    <div class="item" style="background-image:url(images/slide_2.jpg)">
+		    <div class="item" style="background-image:url(images/Network-Design.jpg)">
 		    	<div class="genit-overlay"></div>
 		    	<div class="container">
 		    		<div class="row">
@@ -42,7 +42,7 @@
 		    		</div>
 		    	</div>
 		    </div>
-		    <div class="item" style="background-image:url(images/slide_3.jpg)">
+		    <div class="item" style="background-image:url(images/Network-Security.jpg)">
 		    	<div class="genit-overlay"></div>
 		    	<div class="container">
 		    		<div class="row">
@@ -57,7 +57,7 @@
 		    		</div>
 		    	</div>
 		    </div>
-		    <div class="item" style="background-image:url(images/slide_4.jpg)">
+		    <div class="item" style="background-image:url(images/Disaster-Recovery.jpg)">
 		    	<div class="genit-overlay"></div>
 		    	<div class="container">
 		    		<div class="row">
@@ -90,8 +90,8 @@
 					<div class="col-md-6 col-sm-6 genit-feature-border">
 						<div class="">
 							<div class="col-md-12 col-sm-12">
-								<div class="genit-feature-icon text-center" style="text-align: -moz-center;height:220px;">
-									<img src="images/network-monitoring.jpg" alt="Network Monitoring" class="img-rounded img-responsive">
+								<div class="genit-feature-icon text-center" style="text-align: -moz-center;">
+									<img src="images/monitoring.png" alt="Network Monitoring" class="img-rounded img-responsive">
 								</div>
 										
 							</div>
@@ -99,7 +99,7 @@
 								<div class="genit-feature-text text-center" style="text-align: -moz-center;">
 									<h3>Network Monitoring</h3>
 									<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-									<p><a href="#">Read more</a></p>
+									<p><a href="/services#network_monitoring">Read more</a></p>
 								</div>
 							</div>
 						</div>
@@ -107,15 +107,15 @@
 					<div class="col-md-6 col-sm-6">
 						<div class="">
 							<div class="col-md-12 col-sm-12">
-								<div class="genit-feature-icon text-center" style="text-align: -moz-center;height:220px;">
-									<img src="images/network-security.jpeg" class="img-rounded img-responsive" alt="Network Security">
+								<div class="genit-feature-icon text-center" style="text-align: -moz-center;">
+									<img src="images/design.png" class="img-rounded img-responsive" alt="Network Security">
 								</div>
 							</div>
 							<div class="col-md-12 col-sm-12">
 	                            <div class="genit-feature-text text-center" style="text-align: -moz-center;">
-									<h3>Network Design & Optimization</h3>
+									<h3>Network Design and Optimization</h3>
 									<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-									<p><a href="#">Read more</a></p>
+									<p><a href="/services#network_design">Read more</a></p>
 									<br>
 								</div>
 							</div>
@@ -126,15 +126,15 @@
 					<div class="col-md-6 col-sm-6 genit-feature-border">
 						<div class="">
 							<div class="col-md-12 col-sm-12">
-								<div class="genit-feature-icon text-center" style="text-align: -moz-center;height:220px;">
-									<img src="images/Network-Design.jpg" class="img-rounded img-responsive" alt="Network Design & Optimization">
+								<div class="genit-feature-icon text-center" style="text-align: -moz-center;">
+									<img src="images/security.png" class="img-rounded img-responsive" alt="Network Design & Optimization">
 								</div>
 							</div>	
 							<div class="col-md-12 col-sm-12">
 								<div class="genit-feature-text text-center" style="text-align: -moz-center;">
 									<h3>Network Security</h3>
 									<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-									<p><a href="#">Read more</a></p>
+									<p><a href="/services#network_security">Read more</a></p>
 								</div>
 							</div>
 						</div>
@@ -142,15 +142,15 @@
 					<div class="col-md-6 col-sm-6 genit-feature-border">
 						<div class="">
 							<div class="col-md-12 col-sm-12">
-								<div class="genit-feature-icon text-center" style="text-align: -moz-center;height:220px;">
-									<img src="images/disaster-recovery.jpg" class="img-rounded img-responsive" alt="Disaster recovery">
+								<div class="genit-feature-icon text-center" style="text-align: -moz-center;">
+									<img src="images/recovery.png" class="img-rounded img-responsive" alt="Disaster recovery">
 								</div>
 							</div>
 							<div class="col-md-12 col-sm-12">
 								<div class="genit-feature-text text-center" style="text-align: -moz-center;">
 									<h3>Disaster Recovery</h3>
 									<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-									<p><a href="#">Read more</a></p>
+									<p><a href="/services#disaster_recovery">Read more</a></p>
 									<br> 
 								</div>
 							</div>	
