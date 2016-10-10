@@ -4,8 +4,10 @@
 			<div class="row">
 				<div class="col-md-6 col-sm-6">
 					<div class="genit-footer-widget">
+
 						<h2 class="genit-footer-logo">Loopback Services</h2>
 						<p>Loopback Services is fast growing network service provider with passionate and certified people. We have expertise in Network Design, Monitoring, Optimization, Security services.</p>
+
 					</div>
 					<div class="genit-footer-widget">
 						<ul class="genit-social">
@@ -18,37 +20,47 @@
 					</div>
 				</div>
 
-				<div class=" col-md-offset-1 col-md-2 col-sm-12">
+				<div class=" col-md-3 col-sm-12">
 					<div class="genit-footer-widget top-level">
-						<h4 class="genit-footer-lead" style="font-size:1.2em;">Loopback Services</h4>
+						<h4 class="genit-footer-lead" style="font-size:1.2em;">Loopback Services India</h4>
 						<ul style="font-family: 'Cantarell', sans-serif;">
-							<li><a href="/about">About</a></li>
-							<li><a href="/contact">Contact</a></li>
+                                                        <li>C1 RH Alankapuram Phase 2</li>
+							<li>Alandi Road</li>
+                                                        <li>Pune - 412105</li>
+                                                        
+							<li><a href="/public/about">About</a></li>
+							<li><a href="/public/contact">Contact</a></li>
 						</ul>
 					</div>
 				</div>
 				
 				<div class="visible-sm-block clearfix"></div>
 
-				<div class="col-md-offset-1 col-md-2 col-sm-12">
+				<div class="col-md-3 col-sm-12">
 					<div class="genit-footer-widget top-level">
+
+						
 						<h4 class="genit-footer-lead" style="font-size:1.2em;">Services</h4>
 						<div style="line-height:30%;"><br/></div>
 						<ul class="genit-list-check" style="font-family: 'Cantarell', sans-serif;">
-							<li><a href="/services#network_monitoring">Network Monitoring</a></li>
-							<li><a href="/services#network_design">Network Design and Optimization</a></li>
-							<li><a href="/services#network_security">Network Security</a></li>
-							<li><a href="/services#disaster_recovery">Disaster Recovery</a></li>
+							<li><a href="/public/services#network_monitoring">Network Monitoring</a></li>
+							<li><a href="/public/services#network_design">Network Design and Optimization</a></li>
+							<li><a href="/public/services#network_security">Network Security</a></li>
+							<li><a href="/public/services#disaster_recovery">Disaster Recovery</a></li>
 							
+
 						</ul>
 					</div>
 				</div>
+                                
 				
 			</div>
 
 			<div class="row genit-row-padded genit-copyright">
 				<div class="col-md-5">
+
 					<p><small>&copy; 2016. All Rights Reserved. <br>Designed by <a href="http://genithub.com/" target="_blank">genIThub</a> </small></p>
+
 				</div>
 			</div>
 		</div>

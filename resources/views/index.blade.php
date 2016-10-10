@@ -7,27 +7,82 @@
 	@include('partials._header')
 
 	
+<div class="container-fluid" style="padding-right:0px; padding-left:0px;">
+  <br>
+  <div id="myCarousel" class="carousel slide" data-ride="carousel" style="margin-top:37px;">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+      <li data-target="#myCarousel" data-slide-to="4"></li>
+      
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+
+      <div class="item active">
+        <img src="images/Home.jpg" alt="Home" class="img-responsive">
+        
+      </div>
+     <div class="item">
+        <img src="images/Network-Monitoring.jpg" alt="Network Monitoring">
+        <div class="carousel-caption">
+          <h3 style="font-weight:700;font-family: 'Voltaire', sans-serif;font-size:1.9em;color:white;">Network Monitoring</h3>
+          
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="images/Network-Design.jpg" alt="Network Design">
+        <div class="carousel-caption">
+          <h3 style="font-weight:700;font-family: 'Voltaire', sans-serif;font-size:1.9em;color:white;">Network Design</h3>
+      
+        </div>
+      </div>
+    
+      <div class="item">
+        <img src="images/Network-Security.jpg" alt="Network Security">
+        <div class="carousel-caption">
+          <h3 style="font-weight:700;font-family: 'Voltaire', sans-serif;font-size:1.9em;color:white;">Network Security</h3>
+          
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="images/Disaster-Recovery.jpg" alt="Disaster Recovery">
+        <div class="carousel-caption">
+          <h3 style="font-weight:700;font-family: 'Voltaire', sans-serif;font-size:1.9em;color:white;">Disaster Recovery</h3>
+          
+        </div>
+      </div>
+  
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
 
 
 	
-	<div class="genit-slider">
+	<!-- <div class="genit-slider">
 		<div class="owl-carousel owl-carousel-fullwidth">
-		    <div class="item" style="background-image:url(images/Home.jpg)">
-		    	<div class="genit-overlay"></div>
-		    	<div class="container">
-		    		<div class="row">
-		    			<div class="col-md-8 col-md-offset-2">
-			    			<div class="genit-owl-text-wrap">
-						    	<div class="genit-owl-text text-center to-animate">
-						    		<h1 class="genit-lead" style="font-weight:700;font-family: 'Dosis', sans-serif;font-size:2.9em;">Loopback Services</h1>
-									<h2 class="genit-sub-lead"></h2>
-						    	</div>
-						    </div>
-					    </div>
-		    		</div>
-		    	</div>
-		    </div>
-			<div class="item" style="background-image:url(images/Network-Monitoring.jpg)">
+		    <div class="container">
+                           <div class="row">
+		    	<img src="images/Home.jpg" class="img-responsive">
+                       </div>		    
+                     </div>
+			<div class="item" style="background-image:url(images/network-monitoring.jpg)">
 		    	<div class="genit-overlay"></div>
 		    	<div class="container">
 		    		<div class="row">
@@ -72,7 +127,7 @@
 		    		</div>
 		    	</div>
 		    </div>
-		    <div class="item" style="background-image:url(images/Disaster-Recovery.jpg)">
+		    <div class="item" style="background-image:url(images/disaster-recovery.jpg)">
 		    	<div class="genit-overlay"></div>
 		    	<div class="container">
 		    		<div class="row">
@@ -88,7 +143,7 @@
 		    	</div>
 		    </div>
 		</div>
-	</div>	
+	</div> -->	
 	<div id="genit-main">
 		<!-- Services -->
 
@@ -97,7 +152,7 @@
 				<div class="row text-center">
 					<div class="col-md-8 col-md-offset-2">
 						<h2 class="genit-section-lead">Services</h2>
-						<h3 class="genit-section-sub-lead">Loopback Services is fast growing network service provider with passionate and certified people. We have expertise in Network Design, Monitoring, Optimization, Security services.</h3>
+						<!--<h3 class="genit-section-sub-lead"></h3>-->
 					</div>
 					<div class="genit-spacer genit-spacer-md"></div>
 				</div>
@@ -122,7 +177,7 @@
 											<h4><span class="glyphicon glyphicon-ok"></span> &nbsp; Network Analysis</h4>
 										
 									</div>
-									<p><a href="/services#network_monitoring">Read more</a></p>
+									<p><a href="/public/services#network_monitoring">Read more</a></p>
 								</div>
 							</div>
 						</div>
@@ -145,7 +200,7 @@
 											<h4><span class="glyphicon glyphicon-ok"></span> &nbsp; Network Reviews</h4>
 										
 									</div>
-									<p><a href="/services#network_design">Read more</a></p>
+									<p><a href="/public/services#network_design">Read more</a></p>
 									<br>
 								</div>
 							</div>
@@ -171,7 +226,7 @@
 											
 										
 									</div>
-									<p><a href="/services#network_security">Read more</a></p>
+									<p><a href="/public/services#network_security">Read more</a></p>
 								</div>
 							</div>
 						</div>
@@ -194,7 +249,7 @@
 											
 										
 									</div>
-									<p><a href="/services#disaster_recovery">Read more</a></p>
+									<p><a href="/public/services#disaster_recovery">Read more</a></p>
 									<br> 
 								</div>
 							</div>	
@@ -209,6 +264,7 @@
 			
 
 	</div>
+
 
 
 
